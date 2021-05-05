@@ -626,3 +626,19 @@ hr {
 }
 
 }
+@media (max-width: 1600px){
+.nav-main img {
+    width: 70px;
+    height: 70px;
+  
+}
+}
+
+@media (max-width: 1600px){
+.img-1 img {
+    width: 1504px;
+    height: 350px;
+    bottom: 370px;
+      
+    }
+}  
